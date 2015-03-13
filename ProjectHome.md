@@ -1,0 +1,1 @@
+Catalyst (perl) + DBIx::Class + SQLite - based contacts manager for a small office.  Developed and tested under Windows.
